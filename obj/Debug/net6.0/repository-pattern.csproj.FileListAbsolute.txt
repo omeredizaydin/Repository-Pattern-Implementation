@@ -1,0 +1,15 @@
+C:\Users\61431\Desktop\uygulama-7\consoleapp\repository-pattern\bin\Debug\net6.0\repository-pattern.exe
+C:\Users\61431\Desktop\uygulama-7\consoleapp\repository-pattern\bin\Debug\net6.0\repository-pattern.deps.json
+C:\Users\61431\Desktop\uygulama-7\consoleapp\repository-pattern\bin\Debug\net6.0\repository-pattern.runtimeconfig.json
+C:\Users\61431\Desktop\uygulama-7\consoleapp\repository-pattern\bin\Debug\net6.0\repository-pattern.dll
+C:\Users\61431\Desktop\uygulama-7\consoleapp\repository-pattern\bin\Debug\net6.0\repository-pattern.pdb
+C:\Users\61431\Desktop\uygulama-7\consoleapp\repository-pattern\obj\Debug\net6.0\repository-pattern.csproj.AssemblyReference.cache
+C:\Users\61431\Desktop\uygulama-7\consoleapp\repository-pattern\obj\Debug\net6.0\repository-pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\61431\Desktop\uygulama-7\consoleapp\repository-pattern\obj\Debug\net6.0\repository-pattern.AssemblyInfoInputs.cache
+C:\Users\61431\Desktop\uygulama-7\consoleapp\repository-pattern\obj\Debug\net6.0\repository-pattern.AssemblyInfo.cs
+C:\Users\61431\Desktop\uygulama-7\consoleapp\repository-pattern\obj\Debug\net6.0\repository-pattern.csproj.CoreCompileInputs.cache
+C:\Users\61431\Desktop\uygulama-7\consoleapp\repository-pattern\obj\Debug\net6.0\repository-pattern.dll
+C:\Users\61431\Desktop\uygulama-7\consoleapp\repository-pattern\obj\Debug\net6.0\refint\repository-pattern.dll
+C:\Users\61431\Desktop\uygulama-7\consoleapp\repository-pattern\obj\Debug\net6.0\repository-pattern.pdb
+C:\Users\61431\Desktop\uygulama-7\consoleapp\repository-pattern\obj\Debug\net6.0\repository-pattern.genruntimeconfig.cache
+C:\Users\61431\Desktop\uygulama-7\consoleapp\repository-pattern\obj\Debug\net6.0\ref\repository-pattern.dll
